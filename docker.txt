@@ -9,4 +9,4 @@ https://download.docker.com/win/stable/InstallDocker.msi
 run docker and access it through windows shell .
 
 
-docker now runs :P
+docker now runs :D
