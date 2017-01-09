@@ -10,3 +10,4 @@ run docker and access it through windows shell .
 
 
 docker now runs :D
+run it .
