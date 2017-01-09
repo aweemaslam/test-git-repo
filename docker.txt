@@ -1,0 +1,9 @@
+run -> cmd as admin and run command below
+bcdedit /set hypervisorlaunchtype auto 
+
+and uninstall docker from system 
+and install again from 
+
+https://download.docker.com/win/stable/InstallDocker.msi
+
+run docker and access it through windows shell .
